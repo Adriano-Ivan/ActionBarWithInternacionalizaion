@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="more">Add</string>
+    <string name="delete_action">Delete</string>
+    <string name="help_action">Help</string>
+    <string name="edit_action">Edit</string>
+    <string name="settings">Settings</string>
+    <string name="zoom_in">Aproximar</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="tela2">Screen2</string>
+    <string name="tela1">Screen1</string>
+
+</resources>
